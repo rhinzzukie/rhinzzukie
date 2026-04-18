@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-- 🎓 Computer Science student at **Universitas Pendidikan Ganesha (Undiksha)**
+- 🎓 Computer Science student at **UNDIKSHA**
 - ☕ Currently learning **Java OOP** & building cool stuff
 - 💻 Writing code in **Java, C, and Python**
 - 🌱 Learning step by step, focusing on fundamentals & real projects
