@@ -1,8 +1,14 @@
 <div align="center">
 
 <!-- Typing animation banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FFAA&center=true&vCenter=true&width=600&lines=Hello+World!;I'm+Rhin;C+Programmer;Future+Developer" />
-</div>
+<h1 align="center">Hi 👋, I'm Rhin</h1>
+<h3 align="center">🚀 Aspiring Software Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=500&color=00F7FF&center=true&vCenter=true&width=500&lines=Hello+World!;I'm+Rhinzzukie;Still+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=500&color=FF00FF&center=true&vCenter=true&width=500&lines=Hello+World!;I'm+Rhinzzukie;Still+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=500&color=00FFAA&center=true&vCenter=true&width=500&lines=Hello+World!;I'm+Rhinzzukie;Still+Learning" />
+</p>
 
 ---
 
