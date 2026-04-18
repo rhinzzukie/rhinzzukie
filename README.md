@@ -2,7 +2,7 @@
 
 <!-- Typing animation banner -->
 <h1 align="center">Hi 👋, I'm Rhin</h1>
-<h3 align="center">🚀 Aspiring Software Developer</h3>
+<h3 align="center">LAU SAPE MPRUY Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=500&color=00F7FF&center=true&vCenter=true&width=500&lines=Hello+World!;I'm+Rhinzzukie;Still+Learning" />
