@@ -1,21 +1,17 @@
 <div align="center">
 
-
 <!-- Prowler GIF -->
 <img src="https://i.pinimg.com/originals/70/c2/78/70c27847c3524d3e27ae02a0a762311e.gif" width="400"/>
 
-
-
-
 <!-- Typing animation banner -->
 <h1 align="center">LAU SAPE MPRUY??</h1>
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=500&color=00F7FF&center=true&vCenter=true&width=500&lines=Hello+World!;I'm+Rhinzzukie;Still+Learning" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=500&color=FF00FF&center=true&vCenter=true&width=500&lines=Hello+World!;I'm+Rhinzzukie;Still+Learning" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=500&color=00FFAA&center=true&vCenter=true&width=500&lines=Hello+World!;I'm+Rhinzzukie;Still+Learning" />
 </p>
+
+</div>
 
 ---
 
@@ -33,11 +29,19 @@
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🖥️ Languages
+<img src="https://skillicons.dev/icons?i=java" height="60" alt="Java" title="Java"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=c" height="60" alt="C" title="C"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=python" height="60" alt="Python" title="Python"/>
+
+### 🛠️ Tools
+<img src="https://skillicons.dev/icons?i=git" height="60" alt="Git" title="Git"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub" title="GitHub"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" height="60" alt="VS Code" title="VS Code"/>
 
 </div>
 
@@ -78,4 +82,3 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=rhinzzukie&color=blueviolet&style=flat-square)
 
 </div>
-
