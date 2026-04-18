@@ -30,18 +30,18 @@
 <div align="center">
 
 ### 🖥️ Languages
-<img src="https://skillicons.dev/icons?i=java" height="80" alt="Java" title="Java"/>
+<img src="https://skillicons.dev/icons?i=java" height="100" alt="Java" title="Java"/>
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=c" height="80" alt="C" title="C"/>
+<img src="https://skillicons.dev/icons?i=c" height="100" alt="C" title="C"/>
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=python" height="80" alt="Python" title="Python"/>
+<img src="https://skillicons.dev/icons?i=python" height="100" alt="Python" title="Python"/>
 
 ### 🛠️ Tools
-<img src="https://skillicons.dev/icons?i=git" height="80" alt="Git" title="Git"/>
+<img src="https://skillicons.dev/icons?i=git" height="100" alt="Git" title="Git"/>
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" height="80" alt="GitHub" title="GitHub"/>
+<img src="https://skillicons.dev/icons?i=github" height="100" alt="GitHub" title="GitHub"/>
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode" height="80" alt="VS Code" title="VS Code"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="100" alt="VS Code" title="VS Code"/>
 
 </div>
 
