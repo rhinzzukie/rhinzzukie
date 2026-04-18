@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- Typing animation banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+rhinzzukie+%F0%9F%91%8B;Computer+Science+%40+Undiksha;Learning+step+by+step...;Training+arc+is+in+progress+%F0%9F%93%96)](https://git.io/typing-svg)
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FFAA&center=true&vCenter=true&width=600&lines=Hello+World!;I'm+Rhin;C+Programmer;Future+Developer" />
 </div>
 
 ---
