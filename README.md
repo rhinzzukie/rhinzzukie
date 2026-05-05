@@ -4,7 +4,7 @@
 <img src="https://i.pinimg.com/originals/70/c2/78/70c27847c3524d3e27ae02a0a762311e.gif" width="400"/>
 
 <!-- Typing animation banner -->
-<h1 align="center">IDA BAGUS KADE ARTHA DHARMAYASA??</h1>
+<h1 align="center">IDA BAGUS KADE ARTHA DHARMAYASA</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=500&color=00F7FF&center=true&vCenter=true&width=500&lines=Hello+World!;I'm+Rhinzzukie;Still+Learning" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=500&color=FF00FF&center=true&vCenter=true&width=500&lines=Hello+World!;I'm+Rhinzzukie;Still+Learning" />
